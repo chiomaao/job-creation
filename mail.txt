@@ -1,0 +1,4 @@
+#!/bin/bash
+#this is where all mails shall be sent out from
+#do not disclose email address to the public to avoid fraud
+#emails shoudn't be encrypted
